@@ -1,4 +1,8 @@
-## [OneShot](https://github.com/drygdryg/OneShot) installer for [Termux](https://play.google.com/store/apps/details?id=com.termux)
+## Termux installation 
+
+##Full cradit
+https://github.com/drygdryg
+
 ### Setup
 ```
 $ pkg update && pkg upgrade
