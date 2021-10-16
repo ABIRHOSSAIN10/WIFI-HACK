@@ -1,6 +1,6 @@
 ## Termux installation 
 
-##Full cradit
+## Full cradit
 
 https://github.com/drygdryg
 
